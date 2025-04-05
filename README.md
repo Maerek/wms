@@ -1,5 +1,5 @@
 # WMS
-Zbiór przydatnych adresów WMS przy edycji OpenStreetMap
+Zbiór przydatnych adresów WMS przy edycji [OpenStreetMap](https://www.openstreetmap.org/)
 
 # Ewidencja zbiorów i danych przestrzennych
 https://integracja.gugik.gov.pl/eziudp/
