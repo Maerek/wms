@@ -7,7 +7,7 @@ https://integracja.gugik.gov.pl/eziudp/
 # WMS ogólnopolskie
 |Nazwa zbioru       |Link|
 |-------------------|----|
-|KIBDOT             |https://integracja.gugik.gov.pl/eziudp/                      |
+|KIBDOT             |https://integracja.gugik.gov.pl/cgi-bin/KrajowaIntegracjaBazDanychObiektowTopograficznych|
 
 # WMS według województw
 ## Małopolskie
