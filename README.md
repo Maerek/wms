@@ -10,6 +10,12 @@ https://integracja.gugik.gov.pl/eziudp/
 |KIBDOT             |https://integracja.gugik.gov.pl/cgi-bin/KrajowaIntegracjaBazDanychObiektowTopograficznych|
 
 # WMS według województw
+## Kujawsko - pomorskie
+### Grudziądz
+|Nazwa zbioru       |Link|
+|-------------------|----|
+|GESUT              |https://mapy.geoportal.gov.pl/wss/ext/PowiatoweBazyUzbrojeniaTerenu/0462?service=WMS&request=GetCapabilities|
+
 ## Małopolskie
 ### Kraków
 |Nazwa zbioru       |Link|
