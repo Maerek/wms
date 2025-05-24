@@ -4,6 +4,9 @@ Zbiór przydatnych adresów WMS przy edycji [OpenStreetMap](https://www.openstre
 # Ewidencja zbiorów i danych przestrzennych
 https://integracja.gugik.gov.pl/eziudp/
 
+# Usługi przeglądania WMS i WMTS GeoPortal
+https://www.geoportal.gov.pl/pl/usluga/uslugi-przegladania-wms-i-wmts/
+
 # WMS ogólnopolskie
 |Nazwa zbioru       |Link|
 |:-------------------|:----|
